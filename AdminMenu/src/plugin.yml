@@ -1,0 +1,9 @@
+name: AdminMenu
+version: 1.5.0
+author: Chavangkon Kanjanakuldit
+main: me.Ken980.AdminMenu.Main
+commands:
+    AdminMenu:
+        usage: /<command>
+        aliases: [opmenu,opgui,opengui,openmenu]
+        description: open admin menuGUI
